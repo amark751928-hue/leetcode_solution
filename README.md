@@ -12,6 +12,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/amark751928-hue/leetcode_solution/tree/main/0001-two-sum/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/amark751928-hue/leetcode_solution/tree/main/0485-max-consecutive-ones/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
