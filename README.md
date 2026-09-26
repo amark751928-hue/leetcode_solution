@@ -15,6 +15,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/amark751928-hue/leetcode_solution/tree/main/0001-two-sum/) | Easy |
 | [0053-maximum-subarray](https://github.com/amark751928-hue/leetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
+| [0075-sort-colors](https://github.com/amark751928-hue/leetcode_solution/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amark751928-hue/leetcode_solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0268-missing-number](https://github.com/amark751928-hue/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/amark751928-hue/leetcode_solution/tree/main/0414-third-maximum-number/) | Easy |
@@ -39,6 +40,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/amark751928-hue/leetcode_solution/tree/main/0075-sort-colors/) | Medium |
 | [0268-missing-number](https://github.com/amark751928-hue/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/amark751928-hue/leetcode_solution/tree/main/0414-third-maximum-number/) | Easy |
 ## Divide and Conquer
@@ -50,4 +52,16 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/amark751928-hue/leetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amark751928-hue/leetcode_solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/amark751928-hue/leetcode_solution/tree/main/0075-sort-colors/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/amark751928-hue/leetcode_solution/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/amark751928-hue/leetcode_solution/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
