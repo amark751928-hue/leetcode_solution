@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/amark751928-hue/leetcode_solution/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/amark751928-hue/leetcode_solution/tree/main/0050-powx-n/) | Medium |
 | [0268-missing-number](https://github.com/amark751928-hue/leetcode_solution/tree/main/0268-missing-number/) | Easy |
+| [0326-power-of-three](https://github.com/amark751928-hue/leetcode_solution/tree/main/0326-power-of-three/) | Easy |
 | [3870-count-commas-in-range](https://github.com/amark751928-hue/leetcode_solution/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/amark751928-hue/leetcode_solution/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Array
@@ -29,6 +30,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/amark751928-hue/leetcode_solution/tree/main/0050-powx-n/) | Medium |
+| [0326-power-of-three](https://github.com/amark751928-hue/leetcode_solution/tree/main/0326-power-of-three/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
