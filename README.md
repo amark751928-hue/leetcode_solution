@@ -16,6 +16,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/amark751928-hue/leetcode_solution/tree/main/0001-two-sum/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amark751928-hue/leetcode_solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/amark751928-hue/leetcode_solution/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/amark751928-hue/leetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/amark751928-hue/leetcode_solution/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amark751928-hue/leetcode_solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -37,6 +38,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amark751928-hue/leetcode_solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/amark751928-hue/leetcode_solution/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/amark751928-hue/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amark751928-hue/leetcode_solution/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Bit Manipulation
