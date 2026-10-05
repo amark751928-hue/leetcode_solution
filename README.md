@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/amark751928-hue/leetcode_solution/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/amark751928-hue/leetcode_solution/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/amark751928-hue/leetcode_solution/tree/main/0050-powx-n/) | Medium |
+| [0069-sqrtx](https://github.com/amark751928-hue/leetcode_solution/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/amark751928-hue/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/amark751928-hue/leetcode_solution/tree/main/0326-power-of-three/) | Easy |
 | [3870-count-commas-in-range](https://github.com/amark751928-hue/leetcode_solution/tree/main/3870-count-commas-in-range/) | Easy |
@@ -39,6 +40,7 @@
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amark751928-hue/leetcode_solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/amark751928-hue/leetcode_solution/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/amark751928-hue/leetcode_solution/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/amark751928-hue/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amark751928-hue/leetcode_solution/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Bit Manipulation
@@ -76,4 +78,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amark751928-hue/leetcode_solution/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/amark751928-hue/leetcode_solution/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
