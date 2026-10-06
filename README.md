@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/amark751928-hue/leetcode_solution/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/amark751928-hue/leetcode_solution/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/amark751928-hue/leetcode_solution/tree/main/0050-powx-n/) | Medium |
+| [0066-plus-one](https://github.com/amark751928-hue/leetcode_solution/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/amark751928-hue/leetcode_solution/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/amark751928-hue/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/amark751928-hue/leetcode_solution/tree/main/0326-power-of-three/) | Easy |
@@ -19,6 +20,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amark751928-hue/leetcode_solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/amark751928-hue/leetcode_solution/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/amark751928-hue/leetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
+| [0066-plus-one](https://github.com/amark751928-hue/leetcode_solution/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/amark751928-hue/leetcode_solution/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amark751928-hue/leetcode_solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0268-missing-number](https://github.com/amark751928-hue/leetcode_solution/tree/main/0268-missing-number/) | Easy |
