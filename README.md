@@ -11,6 +11,7 @@
 | [0069-sqrtx](https://github.com/amark751928-hue/leetcode_solution/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/amark751928-hue/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/amark751928-hue/leetcode_solution/tree/main/0326-power-of-three/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/amark751928-hue/leetcode_solution/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [3870-count-commas-in-range](https://github.com/amark751928-hue/leetcode_solution/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/amark751928-hue/leetcode_solution/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Array
@@ -68,6 +69,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/amark751928-hue/leetcode_solution/tree/main/0075-sort-colors/) | Medium |
+| [2396-strictly-palindromic-number](https://github.com/amark751928-hue/leetcode_solution/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,4 +86,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/amark751928-hue/leetcode_solution/tree/main/0069-sqrtx/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2396-strictly-palindromic-number](https://github.com/amark751928-hue/leetcode_solution/tree/main/2396-strictly-palindromic-number/) | Medium |
 <!---LeetCode Topics End-->
