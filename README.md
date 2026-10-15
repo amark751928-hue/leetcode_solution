@@ -28,6 +28,7 @@
 | [0268-missing-number](https://github.com/amark751928-hue/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/amark751928-hue/leetcode_solution/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/amark751928-hue/leetcode_solution/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/amark751928-hue/leetcode_solution/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1051-height-checker](https://github.com/amark751928-hue/leetcode_solution/tree/main/1051-height-checker/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amark751928-hue/leetcode_solution/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Hash Table
@@ -59,6 +60,7 @@
 | [0075-sort-colors](https://github.com/amark751928-hue/leetcode_solution/tree/main/0075-sort-colors/) | Medium |
 | [0268-missing-number](https://github.com/amark751928-hue/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/amark751928-hue/leetcode_solution/tree/main/0414-third-maximum-number/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/amark751928-hue/leetcode_solution/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1051-height-checker](https://github.com/amark751928-hue/leetcode_solution/tree/main/1051-height-checker/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -74,6 +76,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/amark751928-hue/leetcode_solution/tree/main/0075-sort-colors/) | Medium |
+| [0922-sort-array-by-parity-ii](https://github.com/amark751928-hue/leetcode_solution/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/amark751928-hue/leetcode_solution/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
